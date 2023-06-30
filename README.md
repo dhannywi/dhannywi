@@ -6,7 +6,7 @@
 - 📫 Reach me: dhannywi@utexas.edu
 - ✨ Check out my portfolio: https://dhannywi.github.io
 - 🏃🏼‍♀️ I enjoy hiking, kayaking and rock climbing
-- 🤹🏼‍♀️ Fun fact: I worked as a Fashion Designer/Product Developer before I fell in love with software engineering
+- 💫 Fun fact: I worked as a Fashion Designer/Product Developer before I fell in love with software engineering
 <!---
 dhannywi/dhannywi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
