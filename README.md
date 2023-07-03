@@ -1,7 +1,7 @@
 - 👋🏼 Hi, I’m Dhanny
 - 👩🏼‍🎓 I'm currently studying MS Information Science at The University of Texas at Austin, focusing on Machine Learning
 - 👀 I’m interested in web applications development, machine learning and artificial intelligence
-- 🌱 I’m currently learning Data Structures & Algorithms and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat) (![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat))
+- 🌱 I’m currently learning Data Structures & Algorithms and Full Stack Web Development
 - 🏝 In my free time, I enjoy hiking, kayaking and rock climbing
 - 🤓 Courses I've completed: Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Introduction to Machine Learning, Artificial Intelligence in Health, Data Wrangling, Introduction to Scientific Programming and Data Storytelling
 
