@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Dhanny
-- 👩🏼‍🎓 I'm currently studying MS Information Science at The University of Texas at Austin, focusing on Machine Learning
+- 👩🏼‍🎓 MSc. Information Science at The University of Texas at Austin, focusing on Machine Learning, with expected graduation date of December 2023
 - 👀 I’m interested in web applications development, machine learning and artificial intelligence
 - 🌱 I’m currently learning Data Structures & Algorithms and Full Stack Web Development
 - 🏝 In my free time, I enjoy hiking, kayaking and rock climbing
