@@ -26,6 +26,8 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
+
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
