@@ -3,7 +3,7 @@
 - 👀 I’m interested in web applications development, machine learning and artificial intelligence
 - 🌱 I’m currently learning Data Structures & Algorithms and Full Stack Web Application Development
 - 🏝 In my free time, I enjoy hiking, kayaking and rock climbing
-- 🤓 Courses I've completed: Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Introduction to Machine Learning, Artificial Intelligence in Health, Data Wrangling, Introduction to Scientific Programming and Data Storytelling
+- 🤓 Courses I've completed: Web Application Development, Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Introduction to Machine Learning, Artificial Intelligence in Health, Data Wrangling, Introduction to Scientific Programming and Data Storytelling
 - 💫 Fun fact: I worked as a Fashion Designer/Product Developer before I fell in love with software engineering
 - 📫 Reach me: dhannywi@utexas.edu
 - ✨ Check out my portfolio: https://dhannywi.github.io
