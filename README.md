@@ -3,7 +3,7 @@
 - 👀 I’m interested in web application development, machine learning and artificial intelligence
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 🏝 In my free time, I enjoy hiking, kayaking and rock climbing
-- 🤓 Coursework: OOP in Java, DS & Algorithm, Web Application Development, Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Introduction to Machine Learning, Artificial Intelligence in Health, Data Wrangling, Introduction to Scientific Programming and Data Storytelling
+- 📚 Coursework: OOP in Java, DS & Algorithm, Web Application Development, Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Introduction to Machine Learning, Artificial Intelligence in Health, Data Wrangling, Introduction to Scientific Programming and Data Storytelling
 - 📫 Reach me: dhannywi.dev@gmail.com
 - ✨ Check out my portfolio: https://dhannywi.github.io
 
