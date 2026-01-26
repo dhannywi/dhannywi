@@ -1,9 +1,9 @@
 - 👋🏼 Hi, I’m Dhanny
-- 👩🏼‍🎓 MSc. Information Science @ The University of Texas at Austin, Software Engineering and Machine Learning Specialization
+- 👩🏼‍🎓 MSc. Computer Science @ Georgia Institute of Technology
 - 👀 I’m interested in web application development, machine learning and artificial intelligence
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently learning Operating Systems and Computer Networks
 - 🏝 In my free time, I enjoy hiking, kayaking and rock climbing
-- 📚 Coursework: OOP in Java, DS & Algorithm, Web Application Development, Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Introduction to Machine Learning, Artificial Intelligence in Health, Data Wrangling, Introduction to Scientific Programming and Data Storytelling
+- 📚 Coursework: Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Web App Development, Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Machine Learning, AIe in Health, Data Wrangling, Scientific Programming and Data Storytelling
 - 📫 Reach me: dhannywi.dev@gmail.com
 - ✨ Check out my portfolio: https://dhannywi.github.io
 
