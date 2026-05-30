@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Operating Systems and Computer Networks
 - 🏝 In my free time, I enjoy hiking, kayaking and rock climbing
 - 📚 Coursework: Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Web App Development, Software Engineering & Design, Predictive Analytics and Data Mining, Computer Vision, Human-AI Interaction, Machine Learning, AIe in Health, Data Wrangling, Scientific Programming and Data Storytelling
-- 📫 Reach me: dhannywi.dev@gmail.com
 - ✨ Check out my portfolio: https://dhannywi.github.io
 
 - 💻 Programming Languages:
